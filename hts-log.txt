@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 07 Mar 2024 23:35:48 at https://iqac.gujaratuniversity.ac.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://iqac.gujaratuniversity.ac.in/ -O1 "C:\My Web Sites\iqac" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:40:12	Error: 	"Not Found" (404) at link https://iqac.gujaratuniversity.ac.in/Content/fonts/Linearicons-Free.woff2?w118d (from https://iqac.gujaratuniversity.ac.in/Content/css/linearicons.css)
+23:40:12	Error: 	"Not Found" (404) at link https://iqac.gujaratuniversity.ac.in/Content/fonts/fontawesome-webfont.woff2?v=4.7.0 (from https://iqac.gujaratuniversity.ac.in/Content/css/font-awesome.min.css)
+23:40:12	Error: 	"Not Found" (404) at link https://iqac.gujaratuniversity.ac.in/Content/css/owl.video.play.png (from https://iqac.gujaratuniversity.ac.in/Content/css/owl.carousel.css)
+23:40:12	Error: 	"Not Found" (404) at link https://iqac.gujaratuniversity.ac.in/Content/img/ui-icons_444444_256x240.png (from https://iqac.gujaratuniversity.ac.in/Content/css/jquery-ui.css)
+23:40:12	Error: 	"Not Found" (404) at link https://iqac.gujaratuniversity.ac.in/Content/img/ui-icons_555555_256x240.png (from https://iqac.gujaratuniversity.ac.in/Content/css/jquery-ui.css)
+23:40:12	Error: 	"Not Found" (404) at link https://iqac.gujaratuniversity.ac.in/Content/img/ui-icons_ffffff_256x240.png (from https://iqac.gujaratuniversity.ac.in/Content/css/jquery-ui.css)
+23:40:12	Error: 	"Not Found" (404) at link https://iqac.gujaratuniversity.ac.in/Content/img/ui-icons_777620_256x240.png (from https://iqac.gujaratuniversity.ac.in/Content/css/jquery-ui.css)
+23:40:12	Error: 	"Not Found" (404) at link https://iqac.gujaratuniversity.ac.in/Content/img/ui-icons_cc0000_256x240.png (from https://iqac.gujaratuniversity.ac.in/Content/css/jquery-ui.css)
+23:40:12	Error: 	"Not Found" (404) at link https://iqac.gujaratuniversity.ac.in/Content/img/ui-icons_777777_256x240.png (from https://iqac.gujaratuniversity.ac.in/Content/css/jquery-ui.css)
+23:40:12	Error: 	"Not Found" (404) at link https://iqac.gujaratuniversity.ac.in/Content/img/elements/primary-check.png (from https://iqac.gujaratuniversity.ac.in/Content/css/main.css)
+23:40:12	Error: 	"Not Found" (404) at link https://iqac.gujaratuniversity.ac.in/Content/img/elements/success-check.png (from https://iqac.gujaratuniversity.ac.in/Content/css/main.css)
+23:40:12	Error: 	"Not Found" (404) at link https://iqac.gujaratuniversity.ac.in/Content/img/elements/disabled-check.png (from https://iqac.gujaratuniversity.ac.in/Content/css/main.css)
+23:40:12	Error: 	"Not Found" (404) at link https://iqac.gujaratuniversity.ac.in/Content/img/elements/primary-radio.png (from https://iqac.gujaratuniversity.ac.in/Content/css/main.css)
+23:40:12	Error: 	"Not Found" (404) at link https://iqac.gujaratuniversity.ac.in/Content/img/elements/success-radio.png (from https://iqac.gujaratuniversity.ac.in/Content/css/main.css)
+23:40:12	Error: 	"Not Found" (404) at link https://iqac.gujaratuniversity.ac.in/Content/img/elements/disabled-radio.png (from https://iqac.gujaratuniversity.ac.in/Content/css/main.css)
+23:40:12	Error: 	"Not Found" (404) at link https://iqac.gujaratuniversity.ac.in/Content/img/s-bg.jpg (from https://iqac.gujaratuniversity.ac.in/Content/css/main.css)
+23:40:12	Error: 	"Not Found" (404) at link https://iqac.gujaratuniversity.ac.in/Content/img/cta-bg.jpg (from https://iqac.gujaratuniversity.ac.in/Content/css/main.css)
+23:40:12	Error: 	"Not Found" (404) at link https://iqac.gujaratuniversity.ac.in/Content/img/video-bg.jpg (from https://iqac.gujaratuniversity.ac.in/Content/css/main.css)
+23:40:12	Error: 	"Not Found" (404) at link https://iqac.gujaratuniversity.ac.in/Content/img/blog/blog-home-banner.jpg (from https://iqac.gujaratuniversity.ac.in/Content/css/main.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 27 seconds : 253 links scanned, 233 files written (223448317 bytes overall) [223338860 bytes received at 836475 bytes/sec], 247209 bytes transferred using HTTP compression in 11 files, ratio 18%
+(19 errors, 0 warnings, 0 messages)
